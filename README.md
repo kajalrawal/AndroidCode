@@ -1,0 +1,2 @@
+# AndroidCode
+HackerRank Solution
